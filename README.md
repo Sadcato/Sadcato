@@ -1,5 +1,5 @@
-## 嗨！我是 Cato👋
-
+## Hi there！This is Cato ~ o(*￣▽￣*)ブ 
+<img align= "right" width= "250" src= "https://ik.imagekit.io/edyuiaged/GitHub%20profile/%E5%B0%8F%E7%8C%AB%E7%8E%A9%E7%94%B5%E8%84%91%20%20%20%20%E5%8A%A8%E6%80%81%E5%9B%BE%20%E8%A1%A8%E6%83%85%E5%8C%85%20%E8%81%8A%E5%A4%A9%20%E6%90%9E%E7%AC%91%20QQ%20%E5%BE%AE%E4%BF%A1%20%E6%95%B4_%E7%88%B1%E7%BB%99%E7%BD%91_aigei_com.gif?updatedAt=1748599617701"/>
 <!--
 **Sadcato/Sadcato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
