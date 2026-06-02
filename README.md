@@ -3,7 +3,7 @@
 
 ### 愿指引明路的苍蓝星永远为我们闪耀✨ 
 - 🔍 About Me
-- 🌐 Blog: sadcato.sbs
+- 🌐 Blog: sadcato.icu
 - 📫 Email: sadcato1807@gmail.com
 - 💻 Full-stack developer with a passion for building robust and scalable applications
 - 🛠️ Tech Stack  
